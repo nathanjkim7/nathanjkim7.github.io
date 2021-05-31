@@ -18,3 +18,29 @@ div.box
     margin-left: -50px;
     margin-top: -25px; 
 }​
+a:link
+{
+  color: greenyellow;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited
+{
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover
+{
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active
+{
+  color: greenyellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
