@@ -1,5 +1,5 @@
 # nathanjkim7.github.io
-a playground and canvas of memories and moving on  
+a playground and canvas of memories
 
 photos taken by me of home, wherever that may be
 
